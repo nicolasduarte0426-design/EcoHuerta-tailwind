@@ -1,5 +1,3 @@
-# fase1_analisis.md: Exploración y Deconstrucción de EcoHuerta
-
 ## 1. Mapa de Secciones e Interfaz
 
 La interfaz de EcoHuerta guía al usuario de la información general a las acciones específicas de conversión.
